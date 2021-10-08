@@ -27,7 +27,7 @@
 
 ### 2) Database
 
-- DB Index 특징 ( 내부 동작 원리 )
+- [DB Index 특징 ( 내부 동작 원리 )](https://github.com/travelbeeee/Tech_Knowledge/blob/main/DataBase/07_DB_Index.md)
   - B-Tree / B*Tree / B+Tree\
 - Primary Index vs Secondary Index
 - Composite Index
@@ -89,9 +89,10 @@
 - HTTP 상태코드 아는 거 다 말해보시오.
 - HTTP vs HTTPS
   - SSL, TSL
-- TCP vs UDP 차이 ( 장, 단점 )
-- TCP - 3way handshake ( SYN, ACK )
-- TCP - 4way handshake ( FIN, ACK )
+-  [TCP](https://github.com/travelbeeee/Tech_Knowledge/blob/main/Network/11_TCP.md)
+  - TCP - 3way handshake
+  - TCP - 4way handshake
+- [UDP](https://github.com/travelbeeee/Tech_Knowledge/blob/main/Network/14_UDP.md)
 - Client vs Server
 - Cookie vs Session
 - 웹브라우저에서 URL 입력하면 일어나는 일
