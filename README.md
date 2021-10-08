@@ -49,9 +49,9 @@
 
 ### 3) OS
 
-- 캐시
-- 가상메모리
-- Heap / Stack 메모리영역
+- [캐시] (https://luv-n-interest.tistory.com/1003)
+- [가상메모리] (https://luv-n-interest.tistory.com/1005)
+- [Heap / Stack 메모리영역] (https://luv-n-interest.tistory.com/1046)
   - Stack Overflow 언제?
   - Heap Overflow 언제?
 - 프로세스 / 스레드 각각 정의, 특징, 차이, 구조
