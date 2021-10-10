@@ -73,7 +73,7 @@
   - SRTF
   - Priority scheduling
   - RR
-- 페이징
+- 페이징(https://luv-n-interest.tistory.com/1108)
   - 페이징 Fault 발생 어떻게 처리할지
   - TLB
   - 단편화가 발생하는 이유
@@ -112,9 +112,9 @@
 - Socket vs HTTP
 - Packet
 - Circuit Switching vs Packet Switching
-- IPV4 vs IPV6
+- IPV4 vs IPV6(https://luv-n-interest.tistory.com/582)
 - POP3 vs IMAP
-- NAT
+- NAT(https://luv-n-interest.tistory.com/561)
 - DHCP
 - 허브, 스위치, 라우터 차이점
 - Ethernet 소통 방식
