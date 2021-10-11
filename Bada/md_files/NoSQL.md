@@ -104,7 +104,7 @@ ex) Neo4J,  JanusGraph 등
 
 
 
-![image-20211011184711850](D:\project\CS_Study\Bada\images\NoSQL_1.png)
+![image-20211011184711850](..\images\NoSQL_1.png)
 
 ### NoSQL의 장점
 
