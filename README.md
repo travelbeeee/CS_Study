@@ -67,12 +67,13 @@
 - CPU 작동 원리 ( 내부 원리 )
   - CPU Bound , I/O Bound
   - Context Switching
-- CPU 스케줄러
+- [CPU 스케줄러](https://github.com/travelbeeee/CS_Study/blob/main/Bada/md_files/CPU%20%EC%8A%A4%EC%BC%80%EC%A4%84%EB%9F%AC.md)
   - FCFS
   - SJF
   - SRTF
   - Priority scheduling
   - RR
+  - MLQ , MFQ
 - 페이징(https://luv-n-interest.tistory.com/1108)
   - 페이징 Fault 발생 어떻게 처리할지
   - TLB
@@ -84,7 +85,7 @@
 
 ### 4) Network
 
-- OSI 7계층
+- [OSI 7계층](https://github.com/travelbeeee/CS_Study/blob/main/Bada/md_files/OSI%207%EA%B3%84%EC%B8%B5.md)
   - 각 계층이 하는 일
 - HTTP 상태코드 아는 거 다 말해보시오.
 - [HTTP vs HTTPS](https://github.com/travelbeeee/Tech_Knowledge/blob/main/Network/08_HTTP_HTTPS.md)
@@ -94,8 +95,8 @@
   - TCP - 4way handshake
 - [UDP](https://github.com/travelbeeee/Tech_Knowledge/blob/main/Network/14_UDP.md)
 - Client vs Server
-- Cookie vs Session
-- 웹브라우저에서 URL 입력하면 일어나는 일
+- [Cookie vs Session](https://github.com/travelbeeee/CS_Study/blob/main/Bada/md_files/Cookie%20vs%20Session.md)
+- [웹브라우저에서 URL 입력하면 일어나는 일](https://github.com/travelbeeee/CS_Study/blob/main/Bada/md_files/%EC%9B%B9%EB%B8%8C%EB%9D%BC%EC%9A%B0%EC%A0%80%EC%97%90%EC%84%9C%20URL%20%EC%9E%85%EB%A0%A5%ED%95%98%EB%A9%B4%20%EC%9D%BC%EC%96%B4%EB%82%98%EB%8A%94%20%EC%9D%BC.md)
   - DNS 동작 원리
   - 라우터 라우팅 동작 원리
   - ARP 동작 원리
@@ -127,7 +128,7 @@
 - Interface
 - GC
 - 얕은복사 vs 깊은복사
-- MVC
+- [MVC](https://github.com/travelbeeee/CS_Study/blob/main/Bada/md_files/MVC.md)
 - 컴파일러 vs 인터프리터
 - 프레임워크 vs 라이브러리
 - 절차지향프로그래밍 vs 객체지향프로그래밍 vs 함수형 프로그래밍
