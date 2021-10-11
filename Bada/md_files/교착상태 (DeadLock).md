@@ -108,13 +108,13 @@
 
    t=0일 때 P1이 5개, P2가 2개, P3이 2개를 가져간 상황이라고 했을 때 이 상태는 안전상태라고 할 수 있다.
 
-   ![image-20211011162122581](..\images\은행원_2.png)
+   ![image-20211011162122581](https://github.com/travelbeeee/CS_Study/blob/main/Bada/images/%EC%9D%80%ED%96%89%EC%9B%90_2.png?raw=true)
 
    하지만 시스템은 안전 상태에서 불완전 상태로 변할 수 있다. 
 
    t=1에서 P3이 1개의 자원을 추가로 요청했다고 했을 때,
 
-   ![image-20211011162845378](..\images\은행원_3.png)
+   ![image-20211011162845378](https://github.com/travelbeeee/CS_Study/blob/main/Bada/images/%EC%9D%80%ED%96%89%EC%9B%90_3.png?raw=true)
 
    결론은, 운영체제는 t=1에서 P3이 자원 한 개를 더 요청했을 때 이 것이 불완전 상태에 빠질 가능성이 있기 때문에 빌려주지 않을 것이다. 그리고 이것이 DeadLock 회피이다. 
 
