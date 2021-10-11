@@ -26,7 +26,7 @@ https://rebas.kr/854
 5. [Memory Map](#momory-map)
 6. [Socket](#socket) 
 
-![image-20211011193508555](D:\project\CS_Study\Bada\images\IPC_1.png)
+![image-20211011193508555](../images/IPC_1.png)
 
 #### PIPE (익명 PIPE)
 
