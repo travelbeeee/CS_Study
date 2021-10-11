@@ -58,7 +58,7 @@
   - 멀티프로세스
   - 멀티스레드
   - 멀티쓰레드에서 상호배제 어떤 방식으로 구현
-- [교착상태 ( 데드락 )](./Bada/md_files/교착상태 (DeadLock).md)
+- [교착상태 ( 데드락 )](https://github.com/travelbeeee/CS_Study/blob/main/Bada/md_files/%EA%B5%90%EC%B0%A9%EC%83%81%ED%83%9C%20(DeadLock).md)
   - 동기화
   - Critical Section
   - Mutex
