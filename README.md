@@ -36,9 +36,9 @@
   - 특징 ( ACID )
   - Isolation Level
 - Join
-  - 내부 원리 ( NL, MS, H~~ )
-  - 종류 ( Cross, Inner, Left Outer, Right Outer, Full Outer )
-- 정규화 vs 반정규화
+  - [내부 원리 ( NL, MS, H~~ )](https://github.com/travelbeeee/Tech_Knowledge/blob/main/DataBase/12_Join_%EB%82%B4%EB%B6%80%EC%9B%90%EB%A6%AC.md)
+  - [종류](https://github.com/travelbeeee/Tech_Knowledge/blob/main/DataBase/13_Join_%EC%A2%85%EB%A5%98.md)
+- [정규화 vs 반정규화](https://github.com/travelbeeee/Tech_Knowledge/blob/main/DataBase/14_%EC%A0%95%EA%B7%9C%ED%99%94_%EB%B0%98%EC%A0%95%EA%B7%9C%ED%99%94.md)
   - 특징이랑 차이 비교
   - 정규화가 좋은 사례
   - 반정규화가 좋은 사례
@@ -54,7 +54,7 @@
 - [Heap / Stack 메모리영역] (https://luv-n-interest.tistory.com/1046)
   - Stack Overflow 언제?
   - Heap Overflow 언제?
-- 프로세스 / 스레드 각각 정의, 특징, 차이, 구조
+- [프로세스 / 스레드 각각 정의, 특징, 차이, 구조](https://github.com/travelbeeee/Tech_Knowledge/blob/main/OperatingSystem/01_Program_Process_Thread.md)
   - 멀티프로세스
   - 멀티스레드
   - 멀티쓰레드에서 상호배제 어떤 방식으로 구현
@@ -87,7 +87,7 @@
 - OSI 7계층
   - 각 계층이 하는 일
 - HTTP 상태코드 아는 거 다 말해보시오.
-- HTTP vs HTTPS
+- [HTTP vs HTTPS](https://github.com/travelbeeee/Tech_Knowledge/blob/main/Network/08_HTTP_HTTPS.md)
   - SSL, TSL
 -  [TCP](https://github.com/travelbeeee/Tech_Knowledge/blob/main/Network/11_TCP.md)
   - TCP - 3way handshake
