@@ -45,7 +45,7 @@
 - 기본 키와 유일 키의 차이점
 - Lock
 - MVCC
-- NoSQL 간단한 정의, SQL과의 차이
+- [NoSQL 간단한 정의, SQL과의 차이](https://github.com/travelbeeee/CS_Study/blob/main/Bada/md_files/NoSQL.md)
 
 ### 3) OS
 
@@ -80,7 +80,7 @@
   - 단편화가 발생하는 이유
   - 단편화 종류
 - 부동소수점오류 일어나는 이유
-- 프로세스간 통신은 어떻게 이루어지는가
+- [프로세스간 통신은 어떻게 이루어지는가](https://github.com/travelbeeee/CS_Study/blob/main/Bada/md_files/%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4%20%EA%B0%84%20%ED%86%B5%EC%8B%A0%20IPC%20(Inter%20Process%20Communication).md#message-queue)
 - 키보드에서 A를 눌렀을 때 A가 화면에 출력되기까지의 과정
 
 ### 4) Network
@@ -108,7 +108,7 @@
 - Ping / TraceRoute
 - Quality Of Service
 - Congestion 관리방법
-- Restful API
+- [Restful API](https://github.com/travelbeeee/CS_Study/blob/main/Bada/md_files/RESTful%20API.md)
 - VPN 원리
 - Socket vs HTTP
 - Packet
@@ -124,7 +124,7 @@
 ### 5) OOP
 
 - 객체지향언어 특징
-- Override vs Overload
+- [Override vs Overload](https://github.com/travelbeeee/CS_Study/blob/main/Bada/md_files/Override%20vs%20Overload.md)
 - Interface
 - GC
 - 얕은복사 vs 깊은복사
