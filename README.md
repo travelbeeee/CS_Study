@@ -104,12 +104,12 @@
 - LAN vs WAN
 - PORT 개념
 - 서브넷의 목적
-- Unicast / Multicast / Broadcast
+- [Unicast / Multicast / Broadcast](https://luv-n-interest.tistory.com/1062)
 - Ping / TraceRoute
 - Quality Of Service
 - Congestion 관리방법
 - [Restful API](https://github.com/travelbeeee/CS_Study/blob/main/Bada/md_files/RESTful%20API.md)
-- VPN 원리
+- [VPN 원리](https://luv-n-interest.tistory.com/1072)
 - Socket vs HTTP
 - Packet
 - Circuit Switching vs Packet Switching
@@ -117,8 +117,8 @@
 - POP3 vs IMAP
 - NAT(https://luv-n-interest.tistory.com/561)
 - DHCP
-- 허브, 스위치, 라우터 차이점
-- Ethernet 소통 방식
+- [허브, 스위치, 라우터 차이점](https://luv-n-interest.tistory.com/559)
+- [Ethernet 소통 방식](https://luv-n-interest.tistory.com/560)
 - Network ByteOrder
 
 ### 5) OOP
