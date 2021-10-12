@@ -42,9 +42,8 @@
   - 특징이랑 차이 비교
   - 정규화가 좋은 사례
   - 반정규화가 좋은 사례
-- 기본 키와 유일 키의 차이점
-- Lock
-- MVCC
+- [Lock](https://github.com/travelbeeee/Tech_Knowledge/blob/main/DataBase/17_DB_Lock.md)
+- [MVCC](https://github.com/travelbeeee/Tech_Knowledge/blob/main/DataBase/18_DB_MVCC.md)
 - [NoSQL 간단한 정의, SQL과의 차이](https://github.com/travelbeeee/CS_Study/blob/main/Bada/md_files/NoSQL.md)
 
 ### 3) OS
@@ -90,6 +89,7 @@
 - HTTP 상태코드 아는 거 다 말해보시오.
 - [HTTP vs HTTPS](https://github.com/travelbeeee/Tech_Knowledge/blob/main/Network/08_HTTP_HTTPS.md)
   - SSL, TSL
+- [QueryString vs PathVariable](https://github.com/travelbeeee/Tech_Knowledge/blob/main/Network/16_PathVariable_QueryParameter.md)
 -  [TCP](https://github.com/travelbeeee/Tech_Knowledge/blob/main/Network/11_TCP.md)
   - TCP - 3way handshake
   - TCP - 4way handshake
