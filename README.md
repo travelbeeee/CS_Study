@@ -105,7 +105,7 @@
 - PORT 개념
 - 서브넷의 목적
 - [Unicast / Multicast / Broadcast](https://luv-n-interest.tistory.com/1062)
-- Ping / TraceRoute
+- [Ping / TraceRoute](https://luv-n-interest.tistory.com/580)
 - Quality Of Service
 - Congestion 관리방법
 - [Restful API](https://github.com/travelbeeee/CS_Study/blob/main/Bada/md_files/RESTful%20API.md)
@@ -114,7 +114,7 @@
 - Packet
 - Circuit Switching vs Packet Switching
 - IPV4 vs IPV6(https://luv-n-interest.tistory.com/582)
-- POP3 vs IMAP
+- [POP3 vs IMAP](https://luv-n-interest.tistory.com/manage/posts/?searchKeyword=pop3&searchType=title)
 - NAT(https://luv-n-interest.tistory.com/561)
 - DHCP
 - [허브, 스위치, 라우터 차이점](https://luv-n-interest.tistory.com/559)
@@ -126,7 +126,7 @@
 - 객체지향언어 특징
 - [Override vs Overload](https://github.com/travelbeeee/CS_Study/blob/main/Bada/md_files/Override%20vs%20Overload.md)
 - Interface
-- GC
+- [GC](https://luv-n-interest.tistory.com/922)
 - 얕은복사 vs 깊은복사
 - [MVC](https://github.com/travelbeeee/CS_Study/blob/main/Bada/md_files/MVC.md)
 - 컴파일러 vs 인터프리터
