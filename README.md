@@ -5,17 +5,17 @@
 - Quick Sort 수도 코드 구현 및 설명해주세요.
 - LinkedList vs ArrayList 차이점에 대해서 설명해주세요.
 - Array 자료구조 별 특징(장,단점)
-- Stack / Queue 자료구조 별 특징(장,단점)
-- HashSet / HashMap / HashTable / Dictionary 자료구조 별 특징(장,단점)
-- Tree / Binary tree 자료구조 별 특징(장,단점)
-- 비선형 자료구조를 사용하는 이유
+- [Stack  자료구조 특징](https://github.com/travelbeeee/Tech_Knowledge/blob/main/Algorithm_DataStructure/10_Stack_DataStructure.md)
+- [Queue 자료구조 특징](https://github.com/travelbeeee/Tech_Knowledge/blob/main/Algorithm_DataStructure/11_Queue_Datastructure.md)
+- [HashSet / HashMap / HashTable / Dictionary 자료구조 특징](https://github.com/travelbeeee/Tech_Knowledge/blob/main/Java/12_HashSet_HashMap_HashTable.md)
+  - Hash 자료구조의 Best와 Worst 시간 복잡도
+- [Tree / Binary tree 자료구조 특징](https://github.com/travelbeeee/Tech_Knowledge/blob/main/Algorithm_DataStructure/17_Tree_Datastructure.md)
 - Heap 자료구조 별 특징(장,단점)
 - Graph 자료구조 별 특징(장,단점)
 - [Balanced Binary Search Tree](https://github.com/travelbeeee/CS_Study/blob/main/Bada/md_files/B%20Tree.md)
   - B-Tree
 - [Binary Search Tree](https://bba-dda.tistory.com/entry/CS%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0-%EC%9D%B4%EC%A7%84-%ED%83%90%EC%83%89-%ED%8A%B8%EB%A6%AC-BST)
 - [Binary Search Tree와 Hash 자료 구조의 차이는](https://github.com/travelbeeee/CS_Study/blob/main/Bada/md_files/Hash%20vs%20BST.md)
-- Hash 자료구조의 Best와 Worst 시간 복잡도는
 - Sorting Stable / Unstable
 - [거의 정렬이 되어 있는 List에서 어떤 Sorting이 가장 효율적인지](https://bba-dda.tistory.com/entry/CS%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-%EA%B1%B0%EC%9D%98-%EC%A0%95%EB%A0%AC%EB%90%9C-List%EC%97%90%EC%84%9C-%EC%96%B4%EB%96%A4-%EC%A0%95%EB%A0%AC%EC%9D%B4-%EA%B0%80%EC%9E%A5-%ED%9A%A8%EC%9C%A8%EC%A0%81%EC%9D%BC%EA%B9%8C)
   - Bubble
@@ -86,7 +86,7 @@
 
 - [OSI 7계층](https://github.com/travelbeeee/CS_Study/blob/main/Bada/md_files/OSI%207%EA%B3%84%EC%B8%B5.md)
   - 각 계층이 하는 일
-- HTTP 상태코드 아는 거 다 말해보시오.
+- [HTTP 상태코드](https://github.com/travelbeeee/Tech_Knowledge/blob/main/Network/05_HTTP_StatusCode.md)
 - [HTTP vs HTTPS](https://github.com/travelbeeee/Tech_Knowledge/blob/main/Network/08_HTTP_HTTPS.md)
   - SSL, TSL
 - [QueryString vs PathVariable](https://github.com/travelbeeee/Tech_Knowledge/blob/main/Network/16_PathVariable_QueryParameter.md)
@@ -127,7 +127,7 @@
 - [Override vs Overload](https://github.com/travelbeeee/CS_Study/blob/main/Bada/md_files/Override%20vs%20Overload.md)
 - Interface
 - [GC](https://luv-n-interest.tistory.com/922)
-- 얕은복사 vs 깊은복사
+- [얕은복사 vs 깊은복사](https://github.com/travelbeeee/Tech_Knowledge/blob/main/Java/13_%EC%96%95%EC%9D%80%EB%B3%B5%EC%82%AC_%EA%B9%8A%EC%9D%80%EB%B3%B5%EC%82%AC.md)
 - [MVC](https://github.com/travelbeeee/CS_Study/blob/main/Bada/md_files/MVC.md)
 - 컴파일러 vs 인터프리터
 - 프레임워크 vs 라이브러리
