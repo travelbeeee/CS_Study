@@ -11,10 +11,10 @@
 - 비선형 자료구조를 사용하는 이유
 - Heap 자료구조 별 특징(장,단점)
 - Graph 자료구조 별 특징(장,단점)
-- Balanced Binary Search Tree
+- [Balanced Binary Search Tree](https://github.com/travelbeeee/CS_Study/blob/main/Bada/md_files/B%20Tree.md)
   - B-Tree
 - [Binary Search Tree](https://bba-dda.tistory.com/entry/CS%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0-%EC%9D%B4%EC%A7%84-%ED%83%90%EC%83%89-%ED%8A%B8%EB%A6%AC-BST)
-- Binary Search Tree와 Hash 자료 구조의 차이는
+- [Binary Search Tree와 Hash 자료 구조의 차이는](https://github.com/travelbeeee/CS_Study/blob/main/Bada/md_files/Hash%20vs%20BST.md)
 - Hash 자료구조의 Best와 Worst 시간 복잡도는
 - Sorting Stable / Unstable
 - [거의 정렬이 되어 있는 List에서 어떤 Sorting이 가장 효율적인지](https://bba-dda.tistory.com/entry/CS%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-%EA%B1%B0%EC%9D%98-%EC%A0%95%EB%A0%AC%EB%90%9C-List%EC%97%90%EC%84%9C-%EC%96%B4%EB%96%A4-%EC%A0%95%EB%A0%AC%EC%9D%B4-%EA%B0%80%EC%9E%A5-%ED%9A%A8%EC%9C%A8%EC%A0%81%EC%9D%BC%EA%B9%8C)
@@ -110,7 +110,7 @@
 - Congestion 관리방법
 - [Restful API](https://github.com/travelbeeee/CS_Study/blob/main/Bada/md_files/RESTful%20API.md)
 - [VPN 원리](https://luv-n-interest.tistory.com/1072)
-- Socket vs HTTP
+- [Socket vs HTTP](https://github.com/travelbeeee/CS_Study/blob/main/Bada/md_files/HTTP%20vs%20Socket.md)
 - Packet
 - Circuit Switching vs Packet Switching
 - IPV4 vs IPV6(https://luv-n-interest.tistory.com/582)
