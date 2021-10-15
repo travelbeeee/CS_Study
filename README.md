@@ -42,10 +42,9 @@
   - 특징이랑 차이 비교
   - 정규화가 좋은 사례
   - 반정규화가 좋은 사례
-- 기본 키와 유일 키의 차이점
-- Lock
-- MVCC
-- NoSQL 간단한 정의, SQL과의 차이
+- [Lock](https://github.com/travelbeeee/Tech_Knowledge/blob/main/DataBase/17_DB_Lock.md)
+- [MVCC](https://github.com/travelbeeee/Tech_Knowledge/blob/main/DataBase/18_DB_MVCC.md)
+- [NoSQL 간단한 정의, SQL과의 차이](https://github.com/travelbeeee/CS_Study/blob/main/Bada/md_files/NoSQL.md)
 
 ### 3) OS
 
@@ -80,7 +79,7 @@
   - 단편화가 발생하는 이유
   - 단편화 종류
 - 부동소수점오류 일어나는 이유
-- 프로세스간 통신은 어떻게 이루어지는가
+- [프로세스간 통신은 어떻게 이루어지는가](https://github.com/travelbeeee/CS_Study/blob/main/Bada/md_files/%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4%20%EA%B0%84%20%ED%86%B5%EC%8B%A0%20IPC%20(Inter%20Process%20Communication).md#message-queue)
 - 키보드에서 A를 눌렀을 때 A가 화면에 출력되기까지의 과정
 
 ### 4) Network
@@ -90,6 +89,7 @@
 - HTTP 상태코드 아는 거 다 말해보시오.
 - [HTTP vs HTTPS](https://github.com/travelbeeee/Tech_Knowledge/blob/main/Network/08_HTTP_HTTPS.md)
   - SSL, TSL
+- [QueryString vs PathVariable](https://github.com/travelbeeee/Tech_Knowledge/blob/main/Network/16_PathVariable_QueryParameter.md)
 -  [TCP](https://github.com/travelbeeee/Tech_Knowledge/blob/main/Network/11_TCP.md)
   - TCP - 3way handshake
   - TCP - 4way handshake
@@ -104,29 +104,29 @@
 - LAN vs WAN
 - PORT 개념
 - 서브넷의 목적
-- Unicast / Multicast / Broadcast
-- Ping / TraceRoute
+- [Unicast / Multicast / Broadcast](https://luv-n-interest.tistory.com/1062)
+- [Ping / TraceRoute](https://luv-n-interest.tistory.com/580)
 - Quality Of Service
 - Congestion 관리방법
-- Restful API
-- VPN 원리
+- [Restful API](https://github.com/travelbeeee/CS_Study/blob/main/Bada/md_files/RESTful%20API.md)
+- [VPN 원리](https://luv-n-interest.tistory.com/1072)
 - Socket vs HTTP
 - Packet
 - Circuit Switching vs Packet Switching
 - IPV4 vs IPV6(https://luv-n-interest.tistory.com/582)
-- POP3 vs IMAP
+- [POP3 vs IMAP](https://luv-n-interest.tistory.com/manage/posts/?searchKeyword=pop3&searchType=title)
 - NAT(https://luv-n-interest.tistory.com/561)
 - DHCP
-- 허브, 스위치, 라우터 차이점
-- Ethernet 소통 방식
+- [허브, 스위치, 라우터 차이점](https://luv-n-interest.tistory.com/559)
+- [Ethernet 소통 방식](https://luv-n-interest.tistory.com/560)
 - Network ByteOrder
 
 ### 5) OOP
 
 - 객체지향언어 특징
-- Override vs Overload
+- [Override vs Overload](https://github.com/travelbeeee/CS_Study/blob/main/Bada/md_files/Override%20vs%20Overload.md)
 - Interface
-- GC
+- [GC](https://luv-n-interest.tistory.com/922)
 - 얕은복사 vs 깊은복사
 - [MVC](https://github.com/travelbeeee/CS_Study/blob/main/Bada/md_files/MVC.md)
 - 컴파일러 vs 인터프리터

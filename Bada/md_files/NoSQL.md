@@ -103,8 +103,7 @@ ex) Neo4J,  JanusGraph 등
    >하지만 개발 중간에 요구사항이 바뀔 경우, 대처에 애를 먹었다. 그 결과 예산이 초과되고 마감기한을 넘겨 사용자의 요구를 충족하지 못하는 일이 많았다.
 
 
-
-![image-20211011184711850](D:\project\CS_Study\Bada\images\NoSQL_1.png)
+![image-20211011184711850](../images/NoSQL_1.png)
 
 ### NoSQL의 장점
 
