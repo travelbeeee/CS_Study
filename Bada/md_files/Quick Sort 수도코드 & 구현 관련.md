@@ -40,5 +40,5 @@ Partion (Arr, left, right){
 }
 ```
 
-![image-20211015180414268](../Bada/images/QuickSort_1)
+![image-20211015180414268](../Bada/images/QuickSort_1.png)
 
