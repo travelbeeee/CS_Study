@@ -39,6 +39,4 @@ Partion (Arr, left, right){
 	return high // pivot 위치 반환 
 }
 ```
-
-![image-20211015180414268](D:\project\CS_Study\Bada\images\QuickSort_1)
-
+<img src="..\images\QuickSort_1.png" alt="image-20211010194732121" style="zoom: 70%;" />
