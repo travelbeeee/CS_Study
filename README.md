@@ -2,7 +2,7 @@
 
 ### 1) Algorithm & Datastructure
 
-- Quick Sort 수도 코드 구현 및 설명해주세요.
+- [Quick Sort 수도 코드 구현 및 설명해주세요.](https://github.com/travelbeeee/CS_Study/blob/main/Bada/md_files/Quick%20Sort%20%EC%88%98%EB%8F%84%EC%BD%94%EB%93%9C%20%26%20%EA%B5%AC%ED%98%84%20%EA%B4%80%EB%A0%A8.md)
 - LinkedList vs ArrayList 차이점에 대해서 설명해주세요.
 - Array 자료구조 별 특징(장,단점)
 - [Stack  자료구조 특징](https://github.com/travelbeeee/Tech_Knowledge/blob/main/Algorithm_DataStructure/10_Stack_DataStructure.md)
@@ -63,7 +63,7 @@
   - Mutex
   - Semaphores
   - 모니터
-- CPU 작동 원리 ( 내부 원리 )
+- [CPU 작동 원리 ( 내부 원리 )](https://github.com/travelbeeee/CS_Study/blob/main/Bada/md_files/CPU%20%EC%9E%91%EB%8F%99%20%EC%9B%90%EB%A6%AC.md)
   - CPU Bound , I/O Bound
   - Context Switching
 - [CPU 스케줄러](https://github.com/travelbeeee/CS_Study/blob/main/Bada/md_files/CPU%20%EC%8A%A4%EC%BC%80%EC%A4%84%EB%9F%AC.md)
@@ -132,3 +132,7 @@
 - 컴파일러 vs 인터프리터
 - 프레임워크 vs 라이브러리
 - 절차지향프로그래밍 vs 객체지향프로그래밍 vs 함수형 프로그래밍
+
+### 6) 기타
+
+- [MSA](https://github.com/travelbeeee/CS_Study/blob/main/Bada/md_files/MSA%20(MicroService%20Architecture).md)
