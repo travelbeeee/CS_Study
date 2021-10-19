@@ -101,13 +101,13 @@
   - 라우터 라우팅 동작 원리
   - ARP 동작 원리
     - RARP
-- LAN vs WAN
-- PORT 개념
+- [LAN vs WAN](https://github.com/travelbeeee/CS_Study/blob/main/Bada/md_files/LAN%20vs%20WAN.md)
+- [PORT 개념](https://github.com/travelbeeee/CS_Study/blob/main/Bada/md_files/PORT%20%EA%B0%9C%EB%85%90.md)
 - 서브넷의 목적
 - [Unicast / Multicast / Broadcast](https://luv-n-interest.tistory.com/1062)
 - [Ping / TraceRoute](https://luv-n-interest.tistory.com/580)
 - Quality Of Service
-- Congestion 관리방법
+- [Congestion 관리방법](https://github.com/travelbeeee/CS_Study/blob/main/Bada/md_files/Congestion%20%EA%B4%80%EB%A6%AC%20%EB%B0%A9%EB%B2%95.md)
 - [Restful API](https://github.com/travelbeeee/CS_Study/blob/main/Bada/md_files/RESTful%20API.md)
 - [VPN 원리](https://luv-n-interest.tistory.com/1072)
 - [Socket vs HTTP](https://github.com/travelbeeee/CS_Study/blob/main/Bada/md_files/HTTP%20vs%20Socket.md)
